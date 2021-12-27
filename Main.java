@@ -15,4 +15,4 @@ class Main {
     System.out.println(E); // 2.718281828459045
     System.out.println(pow(2, 3)); // 8.0
   }
-} // test
+} // test2
